@@ -9,6 +9,7 @@ namespace gittraning
 {
     public class MvcApplication : System.Web.HttpApplication
     {
+	//commsetrsafas
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
