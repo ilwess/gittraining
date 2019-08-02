@@ -13,7 +13,8 @@ namespace gittraning
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
-            //comm
+            //comm ++
+			
         }
     }
 }
